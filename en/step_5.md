@@ -15,15 +15,6 @@ Use what you’ve learnt to finish designing your own robot. Here are some examp
 
 --- /task ---
 
-
---- task ---
-
-All the file names can be seen in the image gallery. 
-
-![screenshot](images/step5.png)
-
---- /task ---
-
 --- task ---
 
 Try adding different features. For example, you can use `#eyes2` or `#eyes3`.
