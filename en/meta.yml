@@ -1,14 +1,31 @@
-title: Project title in sentence case
-hero_image: images/banner.png
-description: A short description of the project
-listed: false
-pdf: false
+---
+Title: Build a robot
+hero_image: images/build-a-robot.png
+theme: violet
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+title: Build a robot
+description: Learn how to position images to design your own robot
+original_url: https://codeclubprojects.org/en-GB/webdev/build-a-robot
+interests: art
+technologies: html-css-javascript
+site_areas: projects
+hardware: ''
+software: html-css-javascript
+version: 3
+last_tested: 2017-01-01
 steps:
-  - title: What you will make
-  - title: Step title
-    completion:
-      - engaged      
-  - title: Challenge
-    challenge: true
-    completion:
-      - external
+- title: What you will make
+- title: Give your robot eyes
+  completion:
+  - engaged
+- title: Give your robot a mouth
+  completion:
+  - internal
+- title: Challenge
+  challenge: true
+  completion:
+  - external
