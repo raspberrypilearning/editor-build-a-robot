@@ -22,11 +22,14 @@ The code makes the robot’s mouth look small, and in the wrong place! Style the
 --- code ---
 ---
 language: css
-filename: 
+filename: style.css
 line_numbers: true
-line_number_start: 13
-line_highlights:
+line_number_start: 10
+line_highlights:13-18
 ---
+    top: 200px;
+    left: 100px;
+    }
 #mouth1 {
     width: 50px;
     position: absolute;
@@ -38,9 +41,10 @@ line_highlights:
 
 --- task ---
 
-**Run** to test.Try different values until it looks the way you want. 
+**Run** to test. Try different values until the robot looks the way you want. 
 
 --- /task ---
+
 </div>
 
 

@@ -2,16 +2,15 @@
 
 --- task ---
 
-Add the CSS code to position your `eyes1` image.
+Add the CSS code to position your eyes onto your robot face.
 
 --- /task ---
-
 
 <div class="c-project-code">
 --- code ---
 ---
 language: css
-filename: 
+filename: style.css
 line_numbers: true
 line_number_start: 7
 line_highlights: 9-11
@@ -27,7 +26,7 @@ line_highlights: 9-11
 
 --- task ---
 
-**Run** to test. You should see that your robot’s eyes move. Experiment with `top` and `left` until you get the eyes where you want them. 
+**Run** to test. You should see that your robot’s eyes move. Experiment until you get the eyes where you want them. 
 
 --- /task ---
 
