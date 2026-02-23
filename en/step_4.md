@@ -24,14 +24,12 @@ The code makes the robot’s mouth look small, and in the wrong place! Style the
 --- code ---
 ---
 language: css
-filename: 
+filename: style.css
 line_numbers: true
 line_number_start: 10
 line_highlights:13-18
 ---
-    top: 200px;
-    left: 100px;
-    }
+
 #mouth1 {
     width: 50px;
     position: absolute;

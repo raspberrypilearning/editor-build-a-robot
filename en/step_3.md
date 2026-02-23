@@ -10,7 +10,7 @@ Add the CSS code to position your eyes onto your robot face.
 --- code ---
 ---
 language: css
-filename: 
+filename: style.css
 line_numbers: true
 line_number_start: 7
 line_highlights: 9-11

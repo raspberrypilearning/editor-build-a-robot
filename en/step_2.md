@@ -16,7 +16,7 @@ Click on the `style.css` file, add the CSS code below to style the robot eyes.
 --- code ---
 ---
 language: css
-filename: 
+filename: style.css
 line_numbers: true
 line_number_start: 4
 line_highlights: 7-9
@@ -32,7 +32,7 @@ line_highlights: 7-9
 
 --- task ---
 
-**Run** to test. Scroll down to see the eyes change size. Experiment with different numbers to make the eyse bigger or smaller.
+**Run** to test. Scroll down to see the eyes change size. Experiment with different numbers to make the eyes bigger or smaller.
 
 --- /task ---
 </div>
