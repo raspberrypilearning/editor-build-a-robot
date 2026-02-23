@@ -1,3 +1,11 @@
+<h2 class="c-project-heading--task">STEP TITLE</h2>
+
+--- task ---
+
+BRIEF SUMMARY OF STEP - one line
+
+--- /task ---
+
 ## Give your robot a mouth
 
 --- task ---

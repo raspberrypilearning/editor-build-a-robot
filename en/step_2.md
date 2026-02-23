@@ -1,3 +1,11 @@
+<h2 class="c-project-heading--task">STEP TITLE</h2>
+
+--- task ---
+
+BRIEF SUMMARY OF STEP - one line
+
+--- /task ---
+
 ## Give your robot eyes
 
 --- task ---
@@ -32,6 +40,13 @@ Notice how the size of the robot’s face and the other images are different.
 
 --- /task ---
 
+<h2 class="c-project-heading--task">STEP TITLE</h2>
+
+--- task ---
+
+BRIEF SUMMARY OF STEP - one line
+
+--- /task ---
 
 --- task ---
 
@@ -56,6 +71,14 @@ line_highlights:
 --- /task ---
 
 Notice how each image is displayed one after the other? This is called __relative__ positioning. If you want to tell the browser exactly where to place your robot’s eyes, you’ll need to use __absolute__ positioning instead.
+
+<h2 class="c-project-heading--task">STEP TITLE</h2>
+
+--- task ---
+
+BRIEF SUMMARY OF STEP - one line
+
+--- /task ---
 
 --- task ---
 
