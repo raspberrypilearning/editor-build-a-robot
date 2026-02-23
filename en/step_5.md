@@ -1,44 +1,18 @@
-<h2 class="c-project-heading--task">STEP TITLE</h2>
+<h2 class="c-project-heading--task">Challenge</h2>
 
 --- task ---
 
-BRIEF SUMMARY OF STEP - one line
+Make your own robot design.
 
 --- /task ---
 
-## Give your robot a mouth
+
 
 --- task ---
 
-Add CSS code at the bottom of `style.css` to style your `mouth1` image:
+Use what you’ve learnt to finish designing your own robot. Here are some examples of how your robot might look:
 
---- code ---
----
-language: css
-filename: 
-line_numbers: true
-line_number_start: 13
-line_highlights:
----
-#mouth1 {
-    width: 50px;
-    position: absolute;
-    top: 200px;
-    left: 200px;
-    }
-    
---- /code ---
+![screenshot](images/robot-examples.png)
 
 --- /task ---
 
-Your robot’s mouth looks quite small, and it isn’t in the right place!
-
-![The robot's mouth positioned in the wrong place (on its forehead!)](images/robot-mouth.png)
-
---- task ---
-
-Change the `width` and the `top` and `left` positions for `mouth1` in `style.css`. 
-
-Try different values until it looks the way you want. 
-
---- /task ---
