@@ -1,7 +1,5 @@
 ## Challenge
 
---- challenge ---
-
 --- task ---
 
 Add your own design
@@ -12,4 +10,3 @@ Use what you’ve learnt to finish designing your own robot. Here are some examp
 
 --- /task ---
 
---- /challenge ---

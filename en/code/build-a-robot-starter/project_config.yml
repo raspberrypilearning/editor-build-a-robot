@@ -1,4 +1,4 @@
 name: 'Build a robot - Starter'
-identifier: 'build-a-robot-starter'
+identifier: 'editor-build-a-robot-starter'
 type: 'html'
 build: true
