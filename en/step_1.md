@@ -7,5 +7,11 @@ Design your own robot!
 --- /task ---
 
 <div class="c-project-output">
+![screenshot](images/robot-examples.png)
+</div>
+
+
+
+<div class="c-project-output">
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/editor-build-a-robot-complete" width="100%" height="900" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>

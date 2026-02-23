@@ -16,7 +16,7 @@ Click on the `style.css` file, add the CSS code below to style the robot eyes.
 --- code ---
 ---
 language: css
-filename: style.css
+filename: 
 line_numbers: true
 line_number_start: 4
 line_highlights: 7-9

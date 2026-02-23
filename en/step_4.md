@@ -6,11 +6,13 @@ Add CSS code to style your `mouth1` image.
 
 --- /task ---
 
+
 --- task ---
 
 Add the code below to your project.
 
 --- /task ---
+
 
 --- task ---
 
@@ -22,7 +24,7 @@ The code makes the robot’s mouth look small, and in the wrong place! Style the
 --- code ---
 ---
 language: css
-filename: style.css
+filename: 
 line_numbers: true
 line_number_start: 10
 line_highlights:13-18
@@ -38,6 +40,7 @@ line_highlights:13-18
     }
     
 --- /code ---
+
 
 --- task ---
 
