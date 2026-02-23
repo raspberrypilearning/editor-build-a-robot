@@ -50,6 +50,11 @@ line_highlights: 13-18
 
 </div>
 
+<div class="c-project-output">
+![The robot's mouth positioned in the wrong place (on its forehead!)](images/robot-mouth.png)
+</div>
+
+
 
 
 

@@ -8,7 +8,15 @@ Choose an image and use the `id` to style it.
 
 --- task ---
 
-Click on the `style.css` file, add the CSS code below to style the robot eyes.
+Click on the `style.css` file, 
+
+![screenshot](images/step2a.png)
+
+--- /task ---
+
+--- task ---
+
+Add the CSS code below to style the robot eyes.
 
 --- /task ---
 
@@ -32,13 +40,13 @@ line_highlights: 7-9
 
 --- task ---
 
-**Run** to test. Scroll down to see the eyes change size. Experiment with different numbers to make the eyes bigger or smaller.
+**Run** to test. Scroll down to see the eyes change size. Experiment with `width` to make the eyes bigger or smaller.
 
 --- /task ---
 </div>
 
 <div class="c-project-output">
-![screenshot](images/.png)
+![screenshot](images/robot-eyes-width.png)
 </div>
 
 <div class="c-project-callout c-project-callout--tip">

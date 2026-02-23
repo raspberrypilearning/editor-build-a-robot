@@ -18,14 +18,20 @@ Use what you’ve learnt to finish designing your own robot. Here are some examp
 
 --- task ---
 
-All the files can be seen in the image gallery. 
+All the file names can be seen in the image gallery. 
 
-![screenshot](images/robot-examples.png)
+![screenshot](images/step5.png)
 
 --- /task ---
 
 --- task ---
 
 Try adding different features. For example, you can use `#eyes2` or `#eyes3`.
+
+--- /task ---
+
+--- task ---
+
+What else can you add? Accessorise with jewelry or different hairstyles.
 
 --- /task ---
