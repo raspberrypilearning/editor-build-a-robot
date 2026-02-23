@@ -27,9 +27,11 @@ language: css
 filename: style.css
 line_numbers: true
 line_number_start: 10
-line_highlights:13-18
+line_highlights: 13-18
 ---
-
+    top: 200px;
+    left: 100px;
+    }
 #mouth1 {
     width: 50px;
     position: absolute;
