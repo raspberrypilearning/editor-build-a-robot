@@ -24,13 +24,13 @@ line_highlights: 9-11
     
 --- /code ---
 
+</div>
+
 --- task ---
 
 **Run** to test. You should see that your robot’s eyes move. Experiment until you get the eyes where you want them. 
 
 --- /task ---
-
-</div>
 
 <div class="c-project-output">
 ![The robot head with arrows indicating how far the eye is positioned from the top (200px) and left (100px).](images/robot-eyes-position2.png)
@@ -43,4 +43,3 @@ line_highlights: 9-11
 You can use `bottom` instead of `top` to tell the browser how far from the bottom of the screen to show the image, as well as `right` instead of `left`.
 
 </div>
-

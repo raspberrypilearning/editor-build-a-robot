@@ -41,6 +41,8 @@ line_highlights: 13-18
     
 --- /code ---
 
+</div>
+
 
 --- task ---
 
@@ -48,12 +50,9 @@ line_highlights: 13-18
 
 --- /task ---
 
-</div>
-
 <div class="c-project-output">
 ![The robot's mouth positioned in the wrong place (on its forehead!)](images/robot-mouth.png)
 </div>
-
 
 
 

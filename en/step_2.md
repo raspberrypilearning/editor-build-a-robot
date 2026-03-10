@@ -38,12 +38,13 @@ line_highlights: 7-9
 
 --- /code ---
 
+</div>
+
 --- task ---
 
 **Run** to test. Scroll down to see the eyes change size. Experiment with `width` to make the eyes bigger or smaller.
 
 --- /task ---
-</div>
 
 <div class="c-project-output">
 ![screenshot](images/robot-eyes-width.png)
