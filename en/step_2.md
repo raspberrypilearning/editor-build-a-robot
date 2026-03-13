@@ -20,6 +20,19 @@ Add the CSS code below to style the robot eyes.
 
 --- /task ---
 
+
+--- task ---
+
+Experiment with `width` to make the eyes bigger or smaller.
+
+--- /task ---
+
+--- task ---
+
+Try adding different features. For example, you can use `#eyes2` or `#eyes3`.
+
+--- /task ---
+
 <div class="c-project-code">
 --- code ---
 ---
@@ -42,7 +55,7 @@ line_highlights: 7-9
 
 --- task ---
 
-**Run** to test. Scroll down to see the eyes change size. Experiment with `width` to make the eyes bigger or smaller.
+**Run** to test. Scroll down to see the eyes change size. 
 
 --- /task ---
 

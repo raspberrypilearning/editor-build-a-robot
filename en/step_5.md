@@ -15,14 +15,16 @@ Use what you’ve learnt to finish designing your own robot. Here are some examp
 
 --- /task ---
 
---- task ---
-
-Try adding different features. For example, you can use `#eyes2` or `#eyes3`.
-
---- /task ---
 
 --- task ---
 
 What else can you add? Accessorise with jewelry or different hairstyles.
+
+--- /task ---
+
+
+--- task ---
+
+Make a second robot with different parts from the image gallery.
 
 --- /task ---
