@@ -1,37 +1,10 @@
-<h2 class="c-project-heading--task">Give your robot eyes</h2>
+<h2 class="c-project-heading--task">Position the eyes</h2>
 
---- task ---
+### Step 1
 
-Choose an image and use the `id` to style it.
-
---- /task ---
-
---- task ---
-
-Click on the `style.css` file, 
-
-![screenshot](images/step2a.png)
-
---- /task ---
-
---- task ---
-
-Add the CSS code below to style the robot eyes.
-
---- /task ---
+Add the CSS code to position your eyes onto your robot face.
 
 
---- task ---
-
-Experiment with `width` to make the eyes bigger or smaller.
-
---- /task ---
-
---- task ---
-
-Try adding different features. For example, you can use `#eyes2` or `#eyes3`.
-
---- /task ---
 
 <div class="c-project-code">
 --- code ---
@@ -39,34 +12,33 @@ Try adding different features. For example, you can use `#eyes2` or `#eyes3`.
 language: css
 filename: style.css
 line_numbers: true
-line_number_start: 4
-line_highlights: 7-9
+line_number_start: 7
+line_highlights: 9-11
 ---
-#face {
-	width: 400px;
-}
 #eyes1 {
-    width: 400px;
+    width: 200px;
+    position: absolute;
+    top: 200px;
+    left: 100px;
     }
-
+    
 --- /code ---
 
 </div>
 
---- task ---
+### Step 2
 
-**Run** to test. Scroll down to see the eyes change size. 
+**Run** to test. You should see that your robot’s eyes move. Experiment until you get the eyes where you want them. 
 
---- /task ---
 
 <div class="c-project-output">
-![screenshot](images/robot-eyes-width.png)
+![The robot head with arrows indicating how far the eye is positioned from the top (200px) and left (100px).](images/robot-eyes-position2.png)
 </div>
 
 <div class="c-project-callout c-project-callout--tip">
 
 ### Tip
 
-Each image in this project has its own name (or `id`). For example, `<img id="face" ...>` or `<img id="eyes1" ...>`. This allows you to style each image separately.
+You can use `bottom` instead of `top` to tell the browser how far from the bottom of the screen to show the image, as well as `right` instead of `left`.
 
 </div>

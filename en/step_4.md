@@ -1,59 +1,25 @@
-<h2 class="c-project-heading--task">Give your robot a mouth</h2>
+<h2 class="c-project-heading--task">Challenge</h2>
 
---- task ---
+### Step 1
 
-Add CSS code to style your `mouth1` image.
-
---- /task ---
-
-
---- task ---
-
-Add the code below to your project.
-
---- /task ---
-
-
---- task ---
-
-The code makes the robot’s mouth look small, and in the wrong place! Style the mouth by changing the `width`, `top` and `left` positions of `mouth1` in `style.css`. 
-
---- /task ---
-
-<div class="c-project-code">
---- code ---
----
-language: css
-filename: style.css
-line_numbers: true
-line_number_start: 10
-line_highlights: 13-18
----
-    top: 200px;
-    left: 100px;
-    }
-#mouth1 {
-    width: 50px;
-    position: absolute;
-    top: 200px;
-    left: 200px;
-    }
-    
---- /code ---
-
-</div>
-
-
---- task ---
-
-**Run** to test. Try different values until the robot looks the way you want. 
-
---- /task ---
-
-<div class="c-project-output">
-![The robot's mouth positioned in the wrong place (on its forehead!)](images/robot-mouth.png)
-</div>
+Make your own robot design.
 
 
 
+### Step 2
 
+Use what you’ve learnt to finish designing your own robot. Here are some examples of how your robot might look:
+
+![screenshot](images/robot-examples.png)
+
+
+
+### Step 3
+
+What else can you add? Accessorise with jewelry or different hairstyles.
+
+
+
+### Step 4
+
+Make a second robot with different parts from the image gallery.

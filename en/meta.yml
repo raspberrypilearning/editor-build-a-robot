@@ -17,16 +17,14 @@ hardware: ''
 software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
+landing: true
 steps:
-- title: Step 1
-- title: Step 2
-  completion:
-  - engaged
-- title: Step 3
-  completion:
-  - internal
-- title: Step 4
-- title: Step 5
-  challenge: true
-  completion:
-  - external
+  - title: Give your robot eyes
+  - title: Position the eyes
+    completion:
+      - engaged
+  - title: Give your robot a mouth
+    completion:
+      - external
+  - title: Challenge
+    challenge: true

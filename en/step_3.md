@@ -1,10 +1,20 @@
-<h2 class="c-project-heading--task">Position the eyes</h2>
+<h2 class="c-project-heading--task">Give your robot a mouth</h2>
 
---- task ---
+### Step 1
 
-Add the CSS code to position your eyes onto your robot face.
+Add CSS code to style your `mouth1` image.
 
---- /task ---
+
+
+### Step 2
+
+Add the code below to your project.
+
+
+
+### Step 3
+
+The code makes the robot’s mouth look small, and in the wrong place! Style the mouth by changing the `width`, `top` and `left` positions of `mouth1` in `style.css`. 
 
 
 <div class="c-project-code">
@@ -13,34 +23,29 @@ Add the CSS code to position your eyes onto your robot face.
 language: css
 filename: style.css
 line_numbers: true
-line_number_start: 7
-line_highlights: 9-11
+line_number_start: 10
+line_highlights: 13-18
 ---
-#eyes1 {
-    width: 200px;
-    position: absolute;
     top: 200px;
     left: 100px;
+    }
+#mouth1 {
+    width: 50px;
+    position: absolute;
+    top: 200px;
+    left: 200px;
     }
     
 --- /code ---
 
 </div>
 
---- task ---
 
-**Run** to test. You should see that your robot’s eyes move. Experiment until you get the eyes where you want them. 
+### Step 4
 
---- /task ---
+**Run** to test. Try different values until the robot looks the way you want. 
+
 
 <div class="c-project-output">
-![The robot head with arrows indicating how far the eye is positioned from the top (200px) and left (100px).](images/robot-eyes-position2.png)
-</div>
-
-<div class="c-project-callout c-project-callout--tip">
-
-### Tip
-
-You can use `bottom` instead of `top` to tell the browser how far from the bottom of the screen to show the image, as well as `right` instead of `left`.
-
+![The robot's mouth positioned in the wrong place (on its forehead!)](images/robot-mouth.png)
 </div>
