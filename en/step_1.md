@@ -1,29 +1,26 @@
 <h2 class="c-project-heading--task">Give your robot eyes</h2>
 
-### Step 1
-
 Choose an image and use the `id` to style it.
 
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
-### Step 2
+## Step 1
 
 Click on the `style.css` file, 
 
+<div class="c-project-output">
 ![screenshot](images/step2a.png)
+</div>
 
-
-### Step 3
+## Step 2
 
 Add the CSS code below to style the robot eyes.
 
-
-
-### Step 4
+## Step 3
 
 Experiment with `width` to make the eyes bigger or smaller.
 
-
-### Step 5
+## Step 4
 
 Try adding different features. For example, you can use `#eyes2` or `#eyes3`.
 
@@ -48,7 +45,7 @@ line_highlights: 7-9
 
 </div>
 
-### Step 6
+## Step 5
 
 **Run** to test. Scroll down to see the eyes change size. 
 
@@ -57,10 +54,14 @@ line_highlights: 7-9
 ![screenshot](images/robot-eyes-width.png)
 </div>
 
-<div class="c-project-callout c-project-callout--tip">
-
 ### Tip
+
+<div class="c-project-callout c-project-callout--tip">
 
 Each image in this project has its own name (or `id`). For example, `<img id="face" ...>` or `<img id="eyes1" ...>`. This allows you to style each image separately.
 
 </div>
+
+## Now run your code
+
+Confirm the observable result.

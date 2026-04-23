@@ -1,18 +1,14 @@
 <h2 class="c-project-heading--task">Give your robot a mouth</h2>
 
-### Step 1
-
 Add CSS code to style your `mouth1` image.
 
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
-
-### Step 2
+## Step 1
 
 Add the code below to your project.
 
-
-
-### Step 3
+## Step 2
 
 The code makes the robot’s mouth look small, and in the wrong place! Style the mouth by changing the `width`, `top` and `left` positions of `mouth1` in `style.css`. 
 
@@ -40,8 +36,7 @@ line_highlights: 13-18
 
 </div>
 
-
-### Step 4
+## Step 3
 
 **Run** to test. Try different values until the robot looks the way you want. 
 
@@ -49,3 +44,7 @@ line_highlights: 13-18
 <div class="c-project-output">
 ![The robot's mouth positioned in the wrong place (on its forehead!)](images/robot-mouth.png)
 </div>
+
+## Now run your code
+
+Confirm the observable result.
