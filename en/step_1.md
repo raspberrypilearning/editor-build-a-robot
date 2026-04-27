@@ -64,4 +64,4 @@ Each image in this project has its own name (or `id`). For example, `<img id="fa
 
 ## Now run your code
 
-Confirm the observable result.
+Run your code and check that the robot’s eyes change size when you scroll down.

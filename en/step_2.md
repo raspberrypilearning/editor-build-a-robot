@@ -45,4 +45,4 @@ You can use `bottom` instead of `top` to tell the browser how far from the botto
 
 ## Now run your code
 
-Confirm the observable result.
+Run your code and check that the robot’s eyes move to the new position.

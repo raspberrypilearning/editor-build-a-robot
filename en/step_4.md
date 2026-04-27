@@ -22,4 +22,4 @@ Make a second robot with different parts from the image gallery.
 
 ## Now run your code
 
-Confirm the observable result.
+Run your code and check that your own robot design appears, with any extra parts you added.

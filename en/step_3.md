@@ -47,4 +47,4 @@ line_highlights: 13-18
 
 ## Now run your code
 
-Confirm the observable result.
+Run your code and check that the mouth moves to the position you set.
