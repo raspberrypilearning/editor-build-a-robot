@@ -2,8 +2,6 @@
 
 Add CSS code to style your `mouth1` image.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ## Step 1
 
 Add the code below to your project.
