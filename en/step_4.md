@@ -2,8 +2,6 @@
 
 Make your own robot design.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ## Step 1
 
 Use what you’ve learnt to finish designing your own robot. Here are some examples of how your robot might look:
