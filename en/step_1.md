@@ -2,8 +2,6 @@
 
 Choose an image and use the `id` to style it.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ## Step 1
 
 Click on the `style.css` file, 
