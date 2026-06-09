@@ -4,7 +4,7 @@ Choose an image and use the `id` to style it.
 
 ## Step 1
 
-Click on the `style.css` file, 
+Click on the `style.css` file. 
 
 <div class="c-project-output">
 ![screenshot](images/step2a.png)
