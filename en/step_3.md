@@ -6,11 +6,6 @@ Add CSS code to style your `mouth1` image.
 
 Add the code below to your project.
 
-## Step 2
-
-The code makes the robot’s mouth look small, and in the wrong place! Style the mouth by changing the `width`, `top` and `left` positions of `mouth1` in `style.css`. 
-
-
 <div class="c-project-code">
 --- code ---
 ---
@@ -34,15 +29,16 @@ line_highlights: 13-18
 
 </div>
 
-## Step 3
+## Step 2
 
-**Run** to test. Try different values until the robot looks the way you want. 
+The code makes the robot’s mouth look small, and in the wrong place! Style the mouth by changing the `width`, `top` and `left` positions of `mouth1` in `style.css`. 
+
+## Now run your code
+
+Run your code and check that the mouth moves to the position you set. Try different values until the robot looks the way you want. 
 
 
 <div class="c-project-output">
 ![The robot's mouth positioned in the wrong place (on its forehead!)](images/robot-mouth.png)
 </div>
 
-## Now run your code
-
-Run your code and check that the mouth moves to the position you set.
