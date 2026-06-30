@@ -4,7 +4,7 @@ Choose an image and use the `id` to style it.
 
 ## Step 1
 
-Click on the `style.css` file, 
+Click on the `style.css` file. 
 
 <div class="c-project-output">
 ![screenshot](images/step2a.png)
@@ -12,16 +12,7 @@ Click on the `style.css` file,
 
 ## Step 2
 
-Add the CSS code below to style the robot eyes.
-
-## Step 3
-
-Experiment with `width` to make the eyes bigger or smaller.
-
-## Step 4
-
-Try adding different features. For example, you can use `#eyes2` or `#eyes3`.
-
+Add the CSS code below to style the robot eyes. Experiment with `width` to make the eyes bigger or smaller.
 
 <div class="c-project-code">
 --- code ---
@@ -43,9 +34,11 @@ line_highlights: 7-9
 
 </div>
 
-## Step 5
+## Now run your code
 
-**Run** to test. Scroll down to see the eyes change size. 
+Run your code and check that the robot’s eyes change size when you scroll down.
+
+Try changing the `width` on different features. For example, you can use `#eyes2` or `#eyes3`.
 
 
 <div class="c-project-output">
@@ -60,6 +53,3 @@ Each image in this project has its own name (or `id`). For example, `<img id="fa
 
 </div>
 
-## Now run your code
-
-Run your code and check that the robot’s eyes change size when you scroll down.

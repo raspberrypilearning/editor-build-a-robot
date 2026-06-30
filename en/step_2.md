@@ -2,8 +2,6 @@
 
 Add the CSS code to position your eyes onto your robot face.
 
-## Step 1
-
 <div class="c-project-code">
 --- code ---
 ---
@@ -24,9 +22,9 @@ line_highlights: 9-11
 
 </div>
 
-## Step 2
+## Now run your code
 
-**Run** to test. You should see that your robot’s eyes move. Experiment until you get the eyes where you want them. 
+Run your code and check that the robot’s eyes move to the new position. Experiment until you get the eyes where you want them. 
 
 
 <div class="c-project-output">
@@ -41,6 +39,3 @@ You can use `bottom` instead of `top` to tell the browser how far from the botto
 
 </div>
 
-## Now run your code
-
-Run your code and check that the robot’s eyes move to the new position.
