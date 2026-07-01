@@ -39,6 +39,8 @@ Run your code and check that the mouth moves to the position you set. Try differ
 
 
 <div class="c-project-output">
+
 ![The robot's mouth positioned in the wrong place (on its forehead!)](images/robot-mouth.png)
+
 </div>
 

@@ -2,7 +2,7 @@
 
 Make your own robot design.
 
-## Step 1
+## Keep designing
 
 Use what you’ve learnt to finish designing your own robot. Here are some examples of how your robot might look:
 
@@ -10,14 +10,10 @@ Use what you’ve learnt to finish designing your own robot. Here are some examp
 ![screenshot](images/robot-examples.png)
 </div>
 
-## Step 2
+## Accessorise
 
 What else can you add? Accessorise with jewelry or different hairstyles.
 
-## Step 3
+## Make a second robot
 
 Make a second robot with different parts from the image gallery.
-
-## Now run your code
-
-Run your code and check that your own robot design appears, with any extra parts you added.
