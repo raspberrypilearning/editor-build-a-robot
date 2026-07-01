@@ -42,12 +42,14 @@ Try changing the `width` on different features. For example, you can use `#eyes2
 
 
 <div class="c-project-output">
+
 ![screenshot](images/robot-eyes-width.png)
+
 </div>
 
-### Tip
-
 <div class="c-project-callout c-project-callout--tip">
+
+### Tip
 
 Each image in this project has its own name (or `id`). For example, `<img id="face" ...>` or `<img id="eyes1" ...>`. This allows you to style each image separately.
 

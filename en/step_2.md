@@ -28,12 +28,15 @@ Run your code and check that the robot’s eyes move to the new position. Experi
 
 
 <div class="c-project-output">
+
 ![The robot head with arrows indicating how far the eye is positioned from the top (200px) and left (100px).](images/robot-eyes-position2.png)
+
 </div>
 
-### Tip
 
 <div class="c-project-callout c-project-callout--tip">
+
+### Tip
 
 You can use `bottom` instead of `top` to tell the browser how far from the bottom of the screen to show the image, as well as `right` instead of `left`.
 
