@@ -1,19 +1,23 @@
-<h2 class="c-project-heading--task">Challenge</h2>
+## Challenge
 
 Make your own robot design.
 
-## Keep designing
+> [!CHALLENGE]
+>
+> ## Keep designing
+>
+> Use what you’ve learnt to finish designing your own robot. Here are some examples of how your robot might look:
+>
+> ![screenshot](images/robot-examples.png)
 
-Use what you’ve learnt to finish designing your own robot. Here are some examples of how your robot might look:
+> [!CHALLENGE]
+>
+> ## Accessorise
+>
+> What else can you add? Accessorise with jewellery or different hairstyles.
 
-<div class="c-project-output">
-![screenshot](images/robot-examples.png)
-</div>
-
-## Accessorise
-
-What else can you add? Accessorise with jewelry or different hairstyles.
-
-## Make a second robot
-
-Make a second robot with different parts from the image gallery.
+> [!CHALLENGE]
+>
+> ## Make a second robot
+>
+> Make a second robot with different parts from the image gallery.
